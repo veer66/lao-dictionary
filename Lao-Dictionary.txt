@@ -1,0 +1,3 @@
+  #  	Lao Dictionary
+  #  	Copyright (C)  2013  Brian Eugene Wilson, [Air's Full Legal Name], [Bualong's Full Legal Name]
+  #  	Licensed LGPL version 3 available at Lao-Dictioanry-LICENSE.txt
