@@ -1,5 +1,5 @@
-  #  	Lao Word List
-  #  	Copyright (C)  2013  Brian Eugene Wilson, [Air's Full Legal Name], [Bualong's Full Legal Name]
-  #  	Licensed LGPL version 3 available at Lao-Dictioanry-LICENSE.txt
+  #    Lao Word List
+  #    Copyright (C)  2013  Brian Eugene Wilson, [Air's Full Legal Name], [Bualong's Full Legal Name]
+  #    Licensed LGPL version 3 available at Lao-Dictioanry-LICENSE.txt
   #    This word list was created in order to aid in word wrapping issues. 
   #    Compound words have mostly been reduced to their respective parts.
