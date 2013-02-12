@@ -1,7 +1,7 @@
   #    Lao Word List
   #    Copyright (C)  2013  Brian Eugene Wilson, Robert Martin Campbell
   #    With special thanks to Arlyta Keosamone and Bualong Nyoukmai
-  #    Licensed BSD available at Lao-Dictioanry-LICENSE.txt
+  #    Licensed BSD available at Lao-Dictionary-LICENSE.txt
   #    This word list was created in order to aid in word wrapping issues. 
   #    Compound words have mostly been reduced to their respective parts.
   
