@@ -5,7 +5,7 @@
   #    This word list was created in order to aid in word wrapping issues. 
   #    Compound words have mostly been reduced to their respective parts.
   #    See update.log for list of changes
-  #    Current version .07.1 -- 20130418:09:10 +7 GMT
+  #    Current version .07.2 -- 20130418:14:15 +7 GMT
 ອາໂຣນ
 ອາບັດໂດນ
 ອາບັກທາ
