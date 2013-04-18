@@ -4,6 +4,8 @@
   #    Licensed BSD available at LaoDictionaryLICENSE.txt
   #    This word list was created in order to aid in word wrapping issues. 
   #    Compound words have mostly been reduced to their respective parts.
+  #    See update.log for list of changes
+  #    Current version .07.1 -- 20130418:09:10 +7 GMT
 ອາໂຣນ
 ອາບັດໂດນ
 ອາບັກທາ
@@ -5763,7 +5765,6 @@
 ທຳໃຫ້
 ທຳອິດ
 ທຳຮ້າຍ
-ທິ
 ທິການ
 ທິຄິໂກ
 ທິດ
@@ -7275,6 +7276,7 @@
 ພະຍາຍາມ
 ພະຍາດ
 ພະຍານ
+ພະຍານາກ
 ພະຍາບາດ
 ພະຍາບານ
 ພະຍຸ
@@ -10702,7 +10704,9 @@
 ອິດສາ
 ອິດເໜື່ອຍ
 ອິຕາລີ
-ອິທິພົນ
+ອິດທິພົນ
+ອິດທິລິດ
+ອິດທິຣິດ
 ອິນ
 ອິນຊີ
 ອິນດູຈີນ
