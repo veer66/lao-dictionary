@@ -27,7 +27,7 @@
 #	WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
 #	DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR
 #	ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
- #  (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+#  (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
 #	LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 #	ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 #	(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
@@ -4461,7 +4461,6 @@
 ຊ້າດ
 ຊາດນິຍົມ
 ຊາດໝາ
- #	ຊາດູກາຍ duplicate of an earlier entry
 ຊາຕາ
 ຊາຕາກຳ
 ຊໍ້າເຕີມ
@@ -7091,7 +7090,6 @@
 ຜືນ
 ຜື່ນ
 ຜູ້
- #	ຜູ້ like ຜູ້ above but has wrong order of vowel & tone mark
 ຜູກ
 ຜູກຄຽນ
 ຜູກພັນ
@@ -9090,7 +9088,6 @@
 ສະບານ
 ສະບູ
 ສະບູ່
- #	ສະບູ່ like ສະບູ່ above but has wrong order of vowel & tone mark
 ສະບົງ
 ສະບົດ
 ສະບຽງ
@@ -10725,7 +10722,6 @@
 ອິດສາ
 ອິດເໜື່ອຍ
 ອິຕາລີ
- #	ອິດທິພົນ duplicate of earlier entry
 ອິດທິລິດ
 ອິດທິຣິດ
 ອິນ
